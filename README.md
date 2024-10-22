@@ -93,7 +93,8 @@ Important! Don’t supply power to the project until you’ve uploaded the code 
 
 Code for Arduino automatic barrier for toll:
 
-![code](https://github.com/user-attachments/assets/0c884a32-c547-4005-ad7d-2f2c8bc510ca)
+![code](https://github.com/user-attachments/assets/30bd2ccf-7a46-432a-8bb9-8aad67c291ac)
+
 
 
 Some basics about codes used in our project.
